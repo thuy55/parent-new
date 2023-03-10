@@ -1,0 +1,26 @@
+.card-home {
+    margin-top: 65px;
+    background-color: rgb(197, 207, 239);
+    color: black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.card-content {
+    background-color: rgb(218, 233, 241);
+    padding: 5px;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.01);
+}
+.item-list{
+    background-color: rgb(141, 160, 235);
+    padding: 5px;
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.01);
+}
+.img-list{
+    min-height: 60px;
+    min-width: 60px;
+    margin: 15px;
+
+}
+
